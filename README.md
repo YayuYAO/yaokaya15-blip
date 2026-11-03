@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Katya(Yayu)
 
-<!--
-**yaokaya15-blip/yaokaya15-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 My background is in Translation and Theoretical and Experimental Linguistics at the UPV/EHU.
 
-Here are some ideas to get you started:
+🧠 I'm exploring psycholinguistics, neurolinguistics, bilingual lexical-semantic processing, and the cognitive mechanisms underlying language comprehension.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 My current research interests include:
+- Bilingual lexical access and semantic representation
+- Cross-language priming and code-switching
+- Experimental approaches to language processing
+
+💻 I'm keeping learning GitHub, Python, and computational tools for reproducible research.
+
+🌱 That's why I'm here to explore new methods, develop research skills, and collaborate with other researchers.
